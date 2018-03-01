@@ -11,6 +11,7 @@
 		38D0192120454B5400EB7F7C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D0192020454B5400EB7F7C /* ViewController.swift */; };
 		38D0192320454B5400EB7F7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38D0192220454B5400EB7F7C /* Assets.xcassets */; };
 		38D0192620454B5400EB7F7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38D0192420454B5400EB7F7C /* Main.storyboard */; };
+		38D0192F2045501800EB7F7C /* Guess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D0192E2045501800EB7F7C /* Guess.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		38D0192520454B5400EB7F7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		38D0192720454B5400EB7F7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38D0192820454B5400EB7F7C /* SimpleGame.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SimpleGame.entitlements; sourceTree = "<group>"; };
+		38D0192E2045501800EB7F7C /* Guess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guess.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +56,10 @@
 			isa = PBXGroup;
 			children = (
 				38D0191E20454B5400EB7F7C /* AppDelegate.swift */,
+				38D0192E2045501800EB7F7C /* Guess.swift */,
 				38D0192020454B5400EB7F7C /* ViewController.swift */,
-				38D0192220454B5400EB7F7C /* Assets.xcassets */,
 				38D0192420454B5400EB7F7C /* Main.storyboard */,
+				38D0192220454B5400EB7F7C /* Assets.xcassets */,
 				38D0192720454B5400EB7F7C /* Info.plist */,
 				38D0192820454B5400EB7F7C /* SimpleGame.entitlements */,
 			);
@@ -136,6 +139,7 @@
 			files = (
 				38D0192120454B5400EB7F7C /* ViewController.swift in Sources */,
 				38D0191F20454B5400EB7F7C /* AppDelegate.swift in Sources */,
+				38D0192F2045501800EB7F7C /* Guess.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

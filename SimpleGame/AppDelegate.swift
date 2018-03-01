@@ -1,9 +1,9 @@
-//
-//  AppDelegate.swift
-//  SimpleGame
-//
-//  Created by 張凱慶 on 2018/2/27.
-//  Copyright © 2018年 kaiching. All rights reserved.
+///
+//《程式語言教學誌》的範例程式
+// http://kaiching.org/
+// 檔名：AppDelegate.swift
+// 功能：猜數字遊戲的 AppDelegate 類別
+// 作者：張凱慶
 //
 
 import Cocoa
